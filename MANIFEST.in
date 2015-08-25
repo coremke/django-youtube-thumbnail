@@ -1,0 +1,6 @@
+include LICENSE
+include DESCRIPTION.rst
+include README.md
+recursive-include youtube_thumbnail/migrations *
+recursive-include youtube_thumbnail/static *
+recursive-include youtube_thumbnail/templates *

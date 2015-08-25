@@ -1,0 +1,3 @@
+[run]
+omit=*/migrations/*,*/apps.py,*/urls.py,*/tests/*,*/tests.py
+
