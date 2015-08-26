@@ -12,7 +12,7 @@ with open(os.path.join(here, 'DESCRIPTION.rst'), encoding='utf-8') as f:
 os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
-    name='django-youtube_thumbnail',
+    name='django-youtube-thumbnail',
     version=youtube_thumbnail.__version__,
     author='Ryan Senkbeil',
     author_email='ryan.senkbeil@gsdesign.com',
