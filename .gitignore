@@ -46,7 +46,6 @@ docs/_build/
 
 # Editors
 *.swp
-
 .DS_Store
 /node_modules
 /quill_example/db.sqlite3
