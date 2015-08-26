@@ -4,3 +4,4 @@ include README.md
 recursive-include youtube_thumbnail/migrations *
 recursive-include youtube_thumbnail/static *
 recursive-include youtube_thumbnail/templates *
+recursive-include youtube_thumbnail/templatetags *
